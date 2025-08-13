@@ -1,0 +1,18 @@
+# Ignora file di sistema macOS
+mobidev_proj/.DS_Store
+
+# Ignora file di configurazione utente di Xcode
+mobidev_proj/xcuserdata/
+mobidev_proj/*.xcuserdatad
+
+# Ignora i file generati durante la compilazione (build)
+mobidev_proj/build/
+mobidev_proj/DerivedData/
+
+# Ignora file di dipendenze (es. CocoaPods, Carthage, Swift Package Manager)
+mobidev_proj/Pods/
+mobidev_proj/Carthage/
+mobidev_proj/.swiftpm/
+
+# Altri file temporanei
+mobidev_proj/*.profraw

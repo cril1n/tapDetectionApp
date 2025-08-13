@@ -1,0 +1,15 @@
+[sframe]
+version=0
+num_segments=18446744073709551615
+num_columns=4
+nrows=5040
+[column_names]
+0000=relativeZAcceleration
+0001=label
+0002=relativeZVelocity
+0003=session_id
+[column_files]
+0000=m_40b617289ded1d.sidx:0
+0001=m_40b617289ded1d.sidx:1
+0002=m_40b617289ded1d.sidx:2
+0003=m_40b617289ded1d.sidx:3

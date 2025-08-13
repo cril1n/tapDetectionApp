@@ -1,0 +1,17 @@
+[sframe]
+version=0
+num_segments=18446744073709551615
+num_columns=5
+nrows=41215
+[column_names]
+0000=extensionRatio
+0001=acceleration
+0002=velocity
+0003=label
+0004=session_id
+[column_files]
+0000=m_2f63c9949578c182.sidx:0
+0001=m_2f63c9949578c182.sidx:1
+0002=m_2f63c9949578c182.sidx:2
+0003=m_2f63c9949578c182.sidx:3
+0004=m_2f63c9949578c182.sidx:4
